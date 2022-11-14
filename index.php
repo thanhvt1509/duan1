@@ -26,3 +26,4 @@
     include "views/footer.php";
 ?>
 hello baby viet non
+nguuuu mà cực ngu
